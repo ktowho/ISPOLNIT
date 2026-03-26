@@ -46,3 +46,8 @@
 3. `docs/process-overview.md`
 4. `sections/VK/*.md`
 5. `docs/open-questions.md`
+6. `docs/collaboration-pipeline.md`
+
+## Режим совместной работы
+- Работа идёт по итерациям с промежуточной проверкой после каждого шага.
+- Подробный регламент: `docs/collaboration-pipeline.md`.
